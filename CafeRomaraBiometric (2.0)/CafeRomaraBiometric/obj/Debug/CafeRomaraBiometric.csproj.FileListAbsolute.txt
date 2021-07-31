@@ -1,0 +1,77 @@
+c:\users\ccsit\documents\visual studio 2012\Projects\CafeRomaraBiometric\CafeRomaraBiometric\bin\Debug\CafeRomaraBiometric.exe.config
+c:\users\ccsit\documents\visual studio 2012\Projects\CafeRomaraBiometric\CafeRomaraBiometric\bin\Debug\CafeRomaraBiometric.exe
+c:\users\ccsit\documents\visual studio 2012\Projects\CafeRomaraBiometric\CafeRomaraBiometric\bin\Debug\CafeRomaraBiometric.pdb
+c:\users\ccsit\documents\visual studio 2012\Projects\CafeRomaraBiometric\CafeRomaraBiometric\bin\Debug\DPFPDevNET.dll
+c:\users\ccsit\documents\visual studio 2012\Projects\CafeRomaraBiometric\CafeRomaraBiometric\bin\Debug\dpfpshrnet.dll
+c:\users\ccsit\documents\visual studio 2012\Projects\CafeRomaraBiometric\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.csprojResolveAssemblyReference.cache
+c:\users\ccsit\documents\visual studio 2012\Projects\CafeRomaraBiometric\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.Properties.Resources.resources
+c:\users\ccsit\documents\visual studio 2012\Projects\CafeRomaraBiometric\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.csproj.GenerateResource.Cache
+c:\users\ccsit\documents\visual studio 2012\Projects\CafeRomaraBiometric\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.exe
+c:\users\ccsit\documents\visual studio 2012\Projects\CafeRomaraBiometric\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.pdb
+C:\Users\CCSIT\documents\visual studio 2012\Projects\CafeRomaraBiometric\CafeRomaraBiometric\bin\Debug\DPFPEngNET.dll
+C:\Users\CCSIT\documents\visual studio 2012\Projects\CafeRomaraBiometric\CafeRomaraBiometric\bin\Debug\dpfpguinet.dll
+C:\Users\CCSIT\documents\visual studio 2012\Projects\CafeRomaraBiometric\CafeRomaraBiometric\bin\Debug\dpfpvernet.dll
+C:\Users\CCSIT\documents\visual studio 2012\Projects\CafeRomaraBiometric\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.RegisterFingerprintForm.resources
+C:\Users\CCSIT\documents\visual studio 2012\Projects\CafeRomaraBiometric\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.dashboardForm.resources
+C:\Users\CCSIT\documents\visual studio 2012\Projects\CafeRomaraBiometric\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.TimeinForm.resources
+C:\Users\CCSIT\documents\visual studio 2012\Projects\CafeRomaraBiometric\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.AuthorizationForm.resources
+C:\Users\CCSIT\documents\visual studio 2012\Projects\CafeRomaraBiometric\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.ChangeAut.resources
+C:\Users\CCSIT\Documents\Visual Studio 2012\Projects\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\bin\Debug\CafeRomaraBiometric.exe.config
+C:\Users\CCSIT\Documents\Visual Studio 2012\Projects\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.exe
+C:\Users\CCSIT\Documents\Visual Studio 2012\Projects\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.pdb
+C:\Users\CCSIT\Documents\Visual Studio 2012\Projects\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\bin\Debug\CafeRomaraBiometric.exe
+C:\Users\CCSIT\Documents\Visual Studio 2012\Projects\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\bin\Debug\CafeRomaraBiometric.pdb
+C:\Users\CCSIT\Documents\Visual Studio 2012\Projects\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\bin\Debug\DPFPDevNET.dll
+C:\Users\CCSIT\Documents\Visual Studio 2012\Projects\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\bin\Debug\DPFPEngNET.dll
+C:\Users\CCSIT\Documents\Visual Studio 2012\Projects\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\bin\Debug\dpfpguinet.dll
+C:\Users\CCSIT\Documents\Visual Studio 2012\Projects\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\bin\Debug\dpfpshrnet.dll
+C:\Users\CCSIT\Documents\Visual Studio 2012\Projects\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\bin\Debug\dpfpvernet.dll
+C:\Users\CCSIT\Documents\Visual Studio 2012\Projects\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.csprojResolveAssemblyReference.cache
+C:\Users\CCSIT\Documents\Visual Studio 2012\Projects\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.AuthorizationForm.resources
+C:\Users\CCSIT\Documents\Visual Studio 2012\Projects\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.ChangeAut.resources
+C:\Users\CCSIT\Documents\Visual Studio 2012\Projects\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.DashboardForm.resources
+C:\Users\CCSIT\Documents\Visual Studio 2012\Projects\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.Properties.Resources.resources
+C:\Users\CCSIT\Documents\Visual Studio 2012\Projects\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.RegisterFingerprintForm.resources
+C:\Users\CCSIT\Documents\Visual Studio 2012\Projects\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.TimeinForm.resources
+C:\Users\CCSIT\Documents\Visual Studio 2012\Projects\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.csproj.GenerateResource.Cache
+F:\CAFE ROMARA FILES\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\bin\Debug\CafeRomaraBiometric.exe.config
+F:\CAFE ROMARA FILES\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.exe
+F:\CAFE ROMARA FILES\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.pdb
+F:\CAFE ROMARA FILES\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\bin\Debug\CafeRomaraBiometric.exe
+F:\CAFE ROMARA FILES\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\bin\Debug\CafeRomaraBiometric.pdb
+F:\CAFE ROMARA FILES\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.csprojResolveAssemblyReference.cache
+F:\CAFE ROMARA FILES\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.AuthorizationForm.resources
+F:\CAFE ROMARA FILES\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.ChangeAut.resources
+F:\CAFE ROMARA FILES\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.DashboardForm.resources
+F:\CAFE ROMARA FILES\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.Properties.Resources.resources
+F:\CAFE ROMARA FILES\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.RegisterFingerprintForm.resources
+F:\CAFE ROMARA FILES\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.TimeinForm.resources
+F:\CAFE ROMARA FILES\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.csproj.GenerateResource.Cache
+C:\Program Files\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\bin\Debug\CafeRomaraBiometric.exe.config
+C:\Program Files\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.exe
+C:\Program Files\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.pdb
+C:\Program Files\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\bin\Debug\CafeRomaraBiometric.exe
+C:\Program Files\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\bin\Debug\CafeRomaraBiometric.pdb
+C:\Program Files\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.AuthorizationForm.resources
+C:\Program Files\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.ChangeAut.resources
+C:\Program Files\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.DashboardForm.resources
+C:\Program Files\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.Properties.Resources.resources
+C:\Program Files\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.RegisterFingerprintForm.resources
+C:\Program Files\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.TimeinForm.resources
+C:\Program Files\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.csproj.GenerateResource.Cache
+E:\CAFE ROMARA FILES\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\bin\Debug\CafeRomaraBiometric.exe.config
+E:\CAFE ROMARA FILES\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.exe
+E:\CAFE ROMARA FILES\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.pdb
+E:\CAFE ROMARA FILES\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\bin\Debug\CafeRomaraBiometric.exe
+E:\CAFE ROMARA FILES\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\bin\Debug\CafeRomaraBiometric.pdb
+E:\CAFE ROMARA FILES\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.csprojResolveAssemblyReference.cache
+E:\CAFE ROMARA FILES\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.AuthorizationForm.resources
+E:\CAFE ROMARA FILES\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.ChangeAut.resources
+E:\CAFE ROMARA FILES\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.DashboardForm.resources
+E:\CAFE ROMARA FILES\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.Properties.Resources.resources
+E:\CAFE ROMARA FILES\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.RegisterFingerprintForm.resources
+E:\CAFE ROMARA FILES\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.TimeinForm.resources
+E:\CAFE ROMARA FILES\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.csproj.GenerateResource.Cache
+J:\USB Drive E\CAFE ROMARA FILES\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\bin\Debug\CafeRomaraBiometric.exe.config
+J:\USB Drive E\CAFE ROMARA FILES\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.exe
+J:\USB Drive E\CAFE ROMARA FILES\CafeRomaraBiometric (2.0)\CafeRomaraBiometric\obj\Debug\CafeRomaraBiometric.pdb
